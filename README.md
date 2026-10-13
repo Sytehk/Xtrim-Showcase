@@ -38,6 +38,10 @@ The mobile app is built with Flutter and Dart. Supabase and PostgreSQL support u
 
 Flutter and Dart, Supabase, PostgreSQL, location and activity services, and web tooling.
 
+## Main site
+
+[Visit Xtrimly](https://xtrimly.com)
+
 ## This repository
 
 This is a public project overview and product artwork. It does not include private source code, user activity records, credentials, or internal operating details.
