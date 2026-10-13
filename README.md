@@ -21,6 +21,8 @@ The community experience gives members ways to find clubs, join group challenges
 
 The recording flow has to deal with real device conditions, not just a static workout form. Location permissions, GPS quality, battery use, background recording, manual and automatic pauses, and interruptions can all affect what the member sees and what gets saved. Xtrim's product and engineering work treats those states as part of the activity experience.
 
+Group features extend the individual activity record without replacing it. Members can choose which activity to share, take part in recurring club routines, and use group challenges for motivation. Club and event tools give organizers a way to bring people together around an activity rather than relying only on a general social feed.
+
 ## Community preview
 
 <p align="center">
