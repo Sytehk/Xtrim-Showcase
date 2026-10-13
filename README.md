@@ -1,8 +1,8 @@
-# Xtrim
+# Xtrimly
 
 **Fitness tracking with a community to keep moving**
 
-Xtrim brings personal activity tracking together with clubs, events, challenges, and shared progress. It is designed for people who want to record their own training and find a community around running, riding, walking, and other activities.
+Xtrimly brings personal activity tracking together with clubs, events, challenges, and shared progress. It is designed for people who want to record their own training and find a community around running, riding, walking, and other activities.
 
 ## Train on your own or together
 
@@ -19,14 +19,14 @@ The community experience gives members ways to find clubs, join group challenges
 - **Calendar and challenge views** help members keep track of upcoming group activity and personal targets.
 - **Public web and administration tools** support product information and community operations.
 
-The recording flow has to deal with real device conditions, not just a static workout form. Location permissions, GPS quality, battery use, background recording, manual and automatic pauses, and interruptions can all affect what the member sees and what gets saved. Xtrim's product and engineering work treats those states as part of the activity experience.
+The recording flow has to deal with real device conditions, not just a static workout form. Location permissions, GPS quality, battery use, background recording, manual and automatic pauses, and interruptions can all affect what the member sees and what gets saved. Xtrimly's product and engineering work treats those states as part of the activity experience.
 
 Group features extend the individual activity record without replacing it. Members can choose which activity to share, take part in recurring club routines, and use group challenges for motivation. Club and event tools give organizers a way to bring people together around an activity rather than relying only on a general social feed.
 
 ## Community preview
 
 <p align="center">
-  <img src="assets/community-explore-preview.jpg" width="340" alt="Xtrim promotional preview of clubs, challenges, and events">
+  <img src="assets/community-explore-preview.jpg" width="340" alt="Xtrimly promotional preview of clubs, challenges, and events">
 </p>
 <p align="center"><sub>App-store product artwork showing the Explore experience.</sub></p>
 
